@@ -4,6 +4,7 @@ import Home from "../Pages/Home";
 import App from "../App";
 import Apps from "../Pages/Apps";
 import Installation from "../Pages/Installation";
+import AppDetails from "../Pages/AppDetails";
 
 const router = createBrowserRouter([
   {
@@ -11,11 +12,10 @@ const router = createBrowserRouter([
     errorElement: <h2>404 error...</h2>,
     Component: Root,
     children: [
-      {index: true,
-       loader: ()=> fetch('../AppsData.json'), 
-      Component: Home},
+      {index: true, Component: Home},
       {path: 'apps', Component: Apps},
-      {path: 'installation', Component: Installation}
+      {path: 'installation', Component: Installation},
+      {path: '/appsDetails/:id', Component: AppDetails}
     ]
   }
 ])

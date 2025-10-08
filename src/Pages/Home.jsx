@@ -2,13 +2,31 @@ import React from 'react';
 import googleImg from '../assets/googlePlay.png';
 import appImg from '../assets/appStore.png';
 import heroImg from '../assets/hero.png';
-import { Link, useLoaderData } from 'react-router';
+import { Link} from 'react-router';
 import HomeCard from './HomeCard';
+import useData from '../Hooks/useData';
 
 const Home = () => {
-  const data = useLoaderData();
-  // console.log(data);
+  const { data, loading, error } = useData();
+
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center h-screen">
+        <h2 className="text-2xl font-semibold text-gray-600">Loading...</h2>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="flex items-center justify-center h-screen">
+        <h2 className="text-2xl font-semibold text-red-500">Error loading data</h2>
+      </div>
+    );
+  }
+
   const homeData = data.slice(0,8);
+  // console.log(Array.isArray(homeData));
   return (
     <>
     <div className=' flex flex-col items-center space-y-4 pt-10 bg-[#D2D2D250]'>
@@ -56,6 +74,7 @@ const Home = () => {
       </div>
     </div>
     </>
+    
   );
 };
 

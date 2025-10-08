@@ -6,15 +6,30 @@
     "id": 1,
     "description": "A social networking platform that lets users connect with friends, share updates, and build communities.",
     "size": 120,
-    "reviews": 108000000,
+    "reviews": "108000k",
     "ratingAvg": 4.1,
     "downloads": 5000,
     "ratings": [
-      { "name": "1 star", "count": 9500000 },
-      { "name": "2 star", "count": 6000000 },
-      { "name": "3 star", "count": 10000000 },
-      { "name": "4 star", "count": 18000000 },
-      { "name": "5 star", "count": 64000000 }
+      {
+        "name": "1 star",
+        "count": 9500000
+      },
+      {
+        "name": "2 star",
+        "count": 6000000
+      },
+      {
+        "name": "3 star",
+        "count": 10000000
+      },
+      {
+        "name": "4 star",
+        "count": 18000000
+      },
+      {
+        "name": "5 star",
+        "count": 64000000
+      }
     ]
   },
   {
@@ -24,15 +39,30 @@
     "id": 2,
     "description": "A photo and video sharing app where users can post, message, and explore content around the world.",
     "size": 95,
-    "reviews": 90000000,
+    "reviews": "90000k",
     "ratingAvg": 4.4,
     "downloads": 5000,
     "ratings": [
-      { "name": "1 star", "count": 7500000 },
-      { "name": "2 star", "count": 5000000 },
-      { "name": "3 star", "count": 8500000 },
-      { "name": "4 star", "count": 16000000 },
-      { "name": "5 star", "count": 53000000 }
+      {
+        "name": "1 star",
+        "count": 7500000
+      },
+      {
+        "name": "2 star",
+        "count": 5000000
+      },
+      {
+        "name": "3 star",
+        "count": 8500000
+      },
+      {
+        "name": "4 star",
+        "count": 16000000
+      },
+      {
+        "name": "5 star",
+        "count": 53000000
+      }
     ]
   },
   {
@@ -42,15 +72,30 @@
     "id": 3,
     "description": "A global video-sharing platform that allows users to upload, watch, and engage with video content.",
     "size": 110,
-    "reviews": 120000000,
+    "reviews": "120000k",
     "ratingAvg": 4.5,
     "downloads": 10000,
     "ratings": [
-      { "name": "1 star", "count": 10000000 },
-      { "name": "2 star", "count": 7000000 },
-      { "name": "3 star", "count": 9500000 },
-      { "name": "4 star", "count": 21000000 },
-      { "name": "5 star", "count": 73000000 }
+      {
+        "name": "1 star",
+        "count": 10000000
+      },
+      {
+        "name": "2 star",
+        "count": 7000000
+      },
+      {
+        "name": "3 star",
+        "count": 9500000
+      },
+      {
+        "name": "4 star",
+        "count": 21000000
+      },
+      {
+        "name": "5 star",
+        "count": 73000000
+      }
     ]
   },
   {
@@ -60,15 +105,30 @@
     "id": 4,
     "description": "A short-form video platform where users can create, discover, and share entertaining videos.",
     "size": 85,
-    "reviews": 80000000,
+    "reviews": "80000k",
     "ratingAvg": 4.3,
     "downloads": 3000,
     "ratings": [
-      { "name": "1 star", "count": 6000000 },
-      { "name": "2 star", "count": 4500000 },
-      { "name": "3 star", "count": 7000000 },
-      { "name": "4 star", "count": 15000000 },
-      { "name": "5 star", "count": 47500000 }
+      {
+        "name": "1 star",
+        "count": 6000000
+      },
+      {
+        "name": "2 star",
+        "count": 4500000
+      },
+      {
+        "name": "3 star",
+        "count": 7000000
+      },
+      {
+        "name": "4 star",
+        "count": 15000000
+      },
+      {
+        "name": "5 star",
+        "count": 47500000
+      }
     ]
   },
   {
@@ -78,15 +138,30 @@
     "id": 5,
     "description": "A fast, secure web browser used for searching, browsing, and syncing across devices.",
     "size": 150,
-    "reviews": 89000000,
+    "reviews": "89000k",
     "ratingAvg": 4.3,
     "downloads": 10000,
     "ratings": [
-      { "name": "1 star", "count": 8000000 },
-      { "name": "2 star", "count": 6000000 },
-      { "name": "3 star", "count": 9500000 },
-      { "name": "4 star", "count": 19000000 },
-      { "name": "5 star", "count": 46500000 }
+      {
+        "name": "1 star",
+        "count": 8000000
+      },
+      {
+        "name": "2 star",
+        "count": 6000000
+      },
+      {
+        "name": "3 star",
+        "count": 9500000
+      },
+      {
+        "name": "4 star",
+        "count": 19000000
+      },
+      {
+        "name": "5 star",
+        "count": 46500000
+      }
     ]
   },
   {
@@ -96,15 +171,30 @@
     "id": 6,
     "description": "A digital music service offering access to millions of songs, podcasts, and playlists.",
     "size": 70,
-    "reviews": 70000000,
+    "reviews": "70000k",
     "ratingAvg": 4.5,
     "downloads": 1000,
     "ratings": [
-      { "name": "1 star", "count": 5000000 },
-      { "name": "2 star", "count": 4000000 },
-      { "name": "3 star", "count": 6000000 },
-      { "name": "4 star", "count": 14000000 },
-      { "name": "5 star", "count": 41000000 }
+      {
+        "name": "1 star",
+        "count": 5000000
+      },
+      {
+        "name": "2 star",
+        "count": 4000000
+      },
+      {
+        "name": "3 star",
+        "count": 6000000
+      },
+      {
+        "name": "4 star",
+        "count": 14000000
+      },
+      {
+        "name": "5 star",
+        "count": 41000000
+      }
     ]
   },
   {
@@ -114,15 +204,30 @@
     "id": 7,
     "description": "A JavaScript library for building user interfaces, widely used for web and mobile apps.",
     "size": 35,
-    "reviews": 950000,
+    "reviews": "950k",
     "ratingAvg": 4.9,
     "downloads": 25,
     "ratings": [
-      { "name": "1 star", "count": 10000 },
-      { "name": "2 star", "count": 15000 },
-      { "name": "3 star", "count": 25000 },
-      { "name": "4 star", "count": 150000 },
-      { "name": "5 star", "count": 750000 }
+      {
+        "name": "1 star",
+        "count": 10000
+      },
+      {
+        "name": "2 star",
+        "count": 15000
+      },
+      {
+        "name": "3 star",
+        "count": 25000
+      },
+      {
+        "name": "4 star",
+        "count": 150000
+      },
+      {
+        "name": "5 star",
+        "count": 750000
+      }
     ]
   },
   {
@@ -132,15 +237,30 @@
     "id": 8,
     "description": "A social platform for sharing short posts, news, and updates with global communities.",
     "size": 80,
-    "reviews": 65000000,
+    "reviews": "65000k",
     "ratingAvg": 4.0,
     "downloads": 1500,
     "ratings": [
-      { "name": "1 star", "count": 7000000 },
-      { "name": "2 star", "count": 5000000 },
-      { "name": "3 star", "count": 9000000 },
-      { "name": "4 star", "count": 12000000 },
-      { "name": "5 star", "count": 32000000 }
+      {
+        "name": "1 star",
+        "count": 7000000
+      },
+      {
+        "name": "2 star",
+        "count": 5000000
+      },
+      {
+        "name": "3 star",
+        "count": 9000000
+      },
+      {
+        "name": "4 star",
+        "count": 12000000
+      },
+      {
+        "name": "5 star",
+        "count": 32000000
+      }
     ]
   },
   {
@@ -150,15 +270,30 @@
     "id": 9,
     "description": "A free email service developed by Google with powerful search, organization, and spam protection features.",
     "size": 90,
-    "reviews": 105000000,
+    "reviews": "105000k",
     "ratingAvg": 4.5,
     "downloads": 10000,
     "ratings": [
-      { "name": "1 star", "count": 8000000 },
-      { "name": "2 star", "count": 6000000 },
-      { "name": "3 star", "count": 10000000 },
-      { "name": "4 star", "count": 20000000 },
-      { "name": "5 star", "count": 61000000 }
+      {
+        "name": "1 star",
+        "count": 8000000
+      },
+      {
+        "name": "2 star",
+        "count": 6000000
+      },
+      {
+        "name": "3 star",
+        "count": 10000000
+      },
+      {
+        "name": "4 star",
+        "count": 20000000
+      },
+      {
+        "name": "5 star",
+        "count": 61000000
+      }
     ]
   },
   {
@@ -168,15 +303,30 @@
     "id": 10,
     "description": "Cloud storage and file synchronization service that lets users store files online and share easily.",
     "size": 85,
-    "reviews": 87000000,
+    "reviews": "87000k",
     "ratingAvg": 4.6,
     "downloads": 5000,
     "ratings": [
-      { "name": "1 star", "count": 6000000 },
-      { "name": "2 star", "count": 4000000 },
-      { "name": "3 star", "count": 7000000 },
-      { "name": "4 star", "count": 18000000 },
-      { "name": "5 star", "count": 52000000 }
+      {
+        "name": "1 star",
+        "count": 6000000
+      },
+      {
+        "name": "2 star",
+        "count": 4000000
+      },
+      {
+        "name": "3 star",
+        "count": 7000000
+      },
+      {
+        "name": "4 star",
+        "count": 18000000
+      },
+      {
+        "name": "5 star",
+        "count": 52000000
+      }
     ]
   },
   {
@@ -186,15 +336,30 @@
     "id": 11,
     "description": "A secure video meeting platform used for online meetings, education, and team collaboration.",
     "size": 60,
-    "reviews": 32000000,
+    "reviews": "32000k",
     "ratingAvg": 4.3,
     "downloads": 1000,
     "ratings": [
-      { "name": "1 star", "count": 2500000 },
-      { "name": "2 star", "count": 2000000 },
-      { "name": "3 star", "count": 3500000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 16000000 }
+      {
+        "name": "1 star",
+        "count": 2500000
+      },
+      {
+        "name": "2 star",
+        "count": 2000000
+      },
+      {
+        "name": "3 star",
+        "count": 3500000
+      },
+      {
+        "name": "4 star",
+        "count": 8000000
+      },
+      {
+        "name": "5 star",
+        "count": 16000000
+      }
     ]
   },
   {
@@ -204,15 +369,30 @@
     "id": 12,
     "description": "A streaming platform offering movies, TV shows, and original series across multiple genres.",
     "size": 75,
-    "reviews": 92000000,
+    "reviews": "92000k",
     "ratingAvg": 4.4,
     "downloads": 1000,
     "ratings": [
-      { "name": "1 star", "count": 6000000 },
-      { "name": "2 star", "count": 5000000 },
-      { "name": "3 star", "count": 9000000 },
-      { "name": "4 star", "count": 20000000 },
-      { "name": "5 star", "count": 52000000 }
+      {
+        "name": "1 star",
+        "count": 6000000
+      },
+      {
+        "name": "2 star",
+        "count": 5000000
+      },
+      {
+        "name": "3 star",
+        "count": 9000000
+      },
+      {
+        "name": "4 star",
+        "count": 20000000
+      },
+      {
+        "name": "5 star",
+        "count": 52000000
+      }
     ]
   },
   {
@@ -222,15 +402,30 @@
     "id": 13,
     "description": "A communication app for communities with text, voice, and video chat for gamers and professionals.",
     "size": 80,
-    "reviews": 48000000,
+    "reviews": "48000k",
     "ratingAvg": 4.6,
     "downloads": 500,
     "ratings": [
-      { "name": "1 star", "count": 3000000 },
-      { "name": "2 star", "count": 2000000 },
-      { "name": "3 star", "count": 4000000 },
-      { "name": "4 star", "count": 10000000 },
-      { "name": "5 star", "count": 29000000 }
+      {
+        "name": "1 star",
+        "count": 3000000
+      },
+      {
+        "name": "2 star",
+        "count": 2000000
+      },
+      {
+        "name": "3 star",
+        "count": 4000000
+      },
+      {
+        "name": "4 star",
+        "count": 10000000
+      },
+      {
+        "name": "5 star",
+        "count": 29000000
+      }
     ]
   },
   {
@@ -240,16 +435,30 @@
     "id": 14,
     "description": "A web-based design tool for UI/UX designers that supports real-time collaboration.",
     "size": 55,
-    "reviews": 2100000,
+    "reviews": "2100k",
     "ratingAvg": 4.8,
     "downloads": 20,
     "ratings": [
-      { "name": "1 star", "count": 30000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 100000 },
-      { "name": "4 star", "count": 400000 },
-      { "name": "5 star",
-        "count": 1600000 }
+      {
+        "name": "1 star",
+        "count": 30000
+      },
+      {
+        "name": "2 star",
+        "count": 50000
+      },
+      {
+        "name": "3 star",
+        "count": 100000
+      },
+      {
+        "name": "4 star",
+        "count": 400000
+      },
+      {
+        "name": "5 star",
+        "count": 1600000
+      }
     ]
   },
   {
@@ -259,15 +468,30 @@
     "id": 15,
     "description": "An all-in-one workspace for notes, tasks, databases, and team collaboration.",
     "size": 70,
-    "reviews": 3800000,
+    "reviews": "3800k",
     "ratingAvg": 4.7,
     "downloads": 30,
     "ratings": [
-      { "name": "1 star", "count": 50000 },
-      { "name": "2 star", "count": 70000 },
-      { "name": "3 star", "count": 120000 },
-      { "name": "4 star", "count": 600000 },
-      { "name": "5 star", "count": 2900000 }
+      {
+        "name": "1 star",
+        "count": 50000
+      },
+      {
+        "name": "2 star",
+        "count": 70000
+      },
+      {
+        "name": "3 star",
+        "count": 120000
+      },
+      {
+        "name": "4 star",
+        "count": 600000
+      },
+      {
+        "name": "5 star",
+        "count": 2900000
+      }
     ]
   },
   {
@@ -277,15 +501,30 @@
     "id": 16,
     "description": "A team communication and collaboration tool with channels, messaging, and integrations.",
     "size": 85,
-    "reviews": 2200000,
+    "reviews": "2200k",
     "ratingAvg": 4.4,
     "downloads": 100,
     "ratings": [
-      { "name": "1 star", "count": 100000 },
-      { "name": "2 star", "count": 150000 },
-      { "name": "3 star", "count": 300000 },
-      { "name": "4 star", "count": 500000 },
-      { "name": "5 star", "count": 1150000 }
+      {
+        "name": "1 star",
+        "count": 100000
+      },
+      {
+        "name": "2 star",
+        "count": 150000
+      },
+      {
+        "name": "3 star",
+        "count": 300000
+      },
+      {
+        "name": "4 star",
+        "count": 500000
+      },
+      {
+        "name": "5 star",
+        "count": 1150000
+      }
     ]
   },
   {
@@ -295,15 +534,30 @@
     "id": 17,
     "description": "A lightweight source-code editor supporting debugging, Git, and extensions.",
     "size": 110,
-    "reviews": 3200000,
+    "reviews": "3200k",
     "ratingAvg": 4.9,
     "downloads": 150,
     "ratings": [
-      { "name": "1 star", "count": 30000 },
-      { "name": "2 star", "count": 40000 },
-      { "name": "3 star", "count": 80000 },
-      { "name": "4 star", "count": 400000 },
-      { "name": "5 star", "count": 2700000 }
+      {
+        "name": "1 star",
+        "count": 30000
+      },
+      {
+        "name": "2 star",
+        "count": 40000
+      },
+      {
+        "name": "3 star",
+        "count": 80000
+      },
+      {
+        "name": "4 star",
+        "count": 400000
+      },
+      {
+        "name": "5 star",
+        "count": 2700000
+      }
     ]
   },
   {
@@ -313,15 +567,30 @@
     "id": 18,
     "description": "Navigation and mapping service offering real-time GPS tracking and local business info.",
     "size": 120,
-    "reviews": 115000000,
+    "reviews": "115000k",
     "ratingAvg": 4.5,
     "downloads": 10000,
     "ratings": [
-      { "name": "1 star", "count": 7000000 },
-      { "name": "2 star", "count": 5000000 },
-      { "name": "3 star", "count": 8000000 },
-      { "name": "4 star", "count": 19000000 },
-      { "name": "5 star", "count": 76000000 }
+      {
+        "name": "1 star",
+        "count": 7000000
+      },
+      {
+        "name": "2 star",
+        "count": 5000000
+      },
+      {
+        "name": "3 star",
+        "count": 8000000
+      },
+      {
+        "name": "4 star",
+        "count": 19000000
+      },
+      {
+        "name": "5 star",
+        "count": 76000000
+      }
     ]
   },
   {
@@ -331,15 +600,30 @@
     "id": 19,
     "description": "A visual project management app using boards, lists, and cards to organize tasks.",
     "size": 50,
-    "reviews": 1800000,
+    "reviews": "1800k",
     "ratingAvg": 4.6,
     "downloads": 10,
     "ratings": [
-      { "name": "1 star", "count": 40000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 90000 },
-      { "name": "4 star", "count": 350000 },
-      { "name": "5 star", "count": 1300000 }
+      {
+        "name": "1 star",
+        "count": 40000
+      },
+      {
+        "name": "2 star",
+        "count": 50000
+      },
+      {
+        "name": "3 star",
+        "count": 90000
+      },
+      {
+        "name": "4 star",
+        "count": 350000
+      },
+      {
+        "name": "5 star",
+        "count": 1300000
+      }
     ]
   },
   {
@@ -349,15 +633,30 @@
     "id": 20,
     "description": "A graphic design platform for creating social media graphics, presentations, and posters.",
     "size": 100,
-    "reviews": 78000000,
+    "reviews": "78000k",
     "ratingAvg": 4.8,
     "downloads": 1000,
     "ratings": [
-      { "name": "1 star", "count": 4000000 },
-      { "name": "2 star", "count": 3000000 },
-      { "name": "3 star", "count": 6000000 },
-      { "name": "4 star", "count": 12000000 },
-      { "name": "5 star", "count": 53000000 }
+      {
+        "name": "1 star",
+        "count": 4000000
+      },
+      {
+        "name": "2 star",
+        "count": 3000000
+      },
+      {
+        "name": "3 star",
+        "count": 6000000
+      },
+      {
+        "name": "4 star",
+        "count": 12000000
+      },
+      {
+        "name": "5 star",
+        "count": 53000000
+      }
     ]
   }
 ]
