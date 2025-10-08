@@ -11,7 +11,9 @@ const router = createBrowserRouter([
     errorElement: <h2>404 error...</h2>,
     Component: Root,
     children: [
-      {index: true, Component: Home},
+      {index: true,
+       loader: ()=> fetch('../AppsData.json'), 
+      Component: Home},
       {path: 'apps', Component: Apps},
       {path: 'installation', Component: Installation}
     ]

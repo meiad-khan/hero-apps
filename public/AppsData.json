@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg",
+    "image": "https://i.ibb.co.com/N22BMyBZ/apps-37935-9007199266245907-b029bd80-381a-4869-854f-bac6f359c5c9.png",
     "title": "Facebook",
     "companyName": "Meta Platforms Inc.",
     "id": 1,
@@ -8,7 +8,7 @@
     "size": 120,
     "reviews": 108000000,
     "ratingAvg": 4.1,
-    "downloads": 5000000000,
+    "downloads": 5000,
     "ratings": [
       { "name": "1 star", "count": 9500000 },
       { "name": "2 star", "count": 6000000 },
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "image": "https://i.ibb.co.com/pBf418sV/Instagram-icon.png",
     "title": "Instagram",
     "companyName": "Meta Platforms Inc.",
     "id": 2,
@@ -26,7 +26,7 @@
     "size": 95,
     "reviews": 90000000,
     "ratingAvg": 4.4,
-    "downloads": 5000000000,
+    "downloads": 5000,
     "ratings": [
       { "name": "1 star", "count": 7500000 },
       { "name": "2 star", "count": 5000000 },
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
+    "image": "https://i.ibb.co.com/SwrP3G1H/images.png",
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 3,
@@ -44,7 +44,7 @@
     "size": 110,
     "reviews": 120000000,
     "ratingAvg": 4.5,
-    "downloads": 10000000000,
+    "downloads": 10000,
     "ratings": [
       { "name": "1 star", "count": 10000000 },
       { "name": "2 star", "count": 7000000 },
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/TikTok_icon.svg",
+    "image": "https://i.ibb.co.com/N2FjyHfc/199689a5-9c45-43c3-817f-3c2863943760-cover.png",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 4,
@@ -62,7 +62,7 @@
     "size": 85,
     "reviews": 80000000,
     "ratingAvg": 4.3,
-    "downloads": 3000000000,
+    "downloads": 3000,
     "ratings": [
       { "name": "1 star", "count": 6000000 },
       { "name": "2 star", "count": 4500000 },
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Chrome_icon_%282023%29.svg",
+    "image": "https://i.ibb.co.com/pghSVFY/Google-Chrome-icon-February-2022-svg.png",
     "title": "Google Chrome",
     "companyName": "Google LLC",
     "id": 5,
@@ -80,7 +80,7 @@
     "size": 150,
     "reviews": 89000000,
     "ratingAvg": 4.3,
-    "downloads": 10000000000,
+    "downloads": 10000,
     "ratings": [
       { "name": "1 star", "count": 8000000 },
       { "name": "2 star", "count": 6000000 },
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Spotify_logo_with_text.svg",
+    "image": "https://i.ibb.co.com/XkWrwkvj/twitter-card-default.jpg",
     "title": "Spotify",
     "companyName": "Spotify AB",
     "id": 6,
@@ -98,7 +98,7 @@
     "size": 70,
     "reviews": 70000000,
     "ratingAvg": 4.5,
-    "downloads": 1000000000,
+    "downloads": 1000,
     "ratings": [
       { "name": "1 star", "count": 5000000 },
       { "name": "2 star", "count": 4000000 },
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+    "image": "https://i.ibb.co.com/CsQCfTCL/images-1.png",
     "title": "React",
     "companyName": "Meta (Open Source)",
     "id": 7,
@@ -116,7 +116,7 @@
     "size": 35,
     "reviews": 950000,
     "ratingAvg": 4.9,
-    "downloads": 25000000,
+    "downloads": 25,
     "ratings": [
       { "name": "1 star", "count": 10000 },
       { "name": "2 star", "count": 15000 },
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg",
+    "image": "https://i.ibb.co.com/zhPGP3y2/d1c5b0bb6d3d68974aa535c859e8bb711690190849793402-original.jpg",
     "title": "X (Twitter)",
     "companyName": "X Corp.",
     "id": 8,
@@ -134,7 +134,7 @@
     "size": 80,
     "reviews": 65000000,
     "ratingAvg": 4.0,
-    "downloads": 1500000000,
+    "downloads": 1500,
     "ratings": [
       { "name": "1 star", "count": 7000000 },
       { "name": "2 star", "count": 5000000 },
@@ -143,9 +143,8 @@
       { "name": "5 star", "count": 32000000 }
     ]
   },
-
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Gmail_icon_%282020%29.svg",
+    "image": "https://i.ibb.co.com/hJYx4yXL/gmail-logo-gmail-icon-google-email-service-logotype-icon-vector-gmail-logo-gmail-icon-google-email-s.webp",
     "title": "Gmail",
     "companyName": "Google LLC",
     "id": 9,
@@ -153,7 +152,7 @@
     "size": 90,
     "reviews": 105000000,
     "ratingAvg": 4.5,
-    "downloads": 10000000000,
+    "downloads": 10000,
     "ratings": [
       { "name": "1 star", "count": 8000000 },
       { "name": "2 star", "count": 6000000 },
@@ -163,7 +162,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Google_Drive_icon_%282020%29.svg",
+    "image": "https://i.ibb.co.com/wh0VYCBJ/Google-Drive-icon-2020-svg.png",
     "title": "Google Drive",
     "companyName": "Google LLC",
     "id": 10,
@@ -171,7 +170,7 @@
     "size": 85,
     "reviews": 87000000,
     "ratingAvg": 4.6,
-    "downloads": 5000000000,
+    "downloads": 5000,
     "ratings": [
       { "name": "1 star", "count": 6000000 },
       { "name": "2 star", "count": 4000000 },
@@ -181,7 +180,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Meet_icon_%282020%29.svg",
+    "image": "https://i.ibb.co.com/R4j9G6nk/logo-meet-2020q4-color-2x-web-96dp.png",
     "title": "Google Meet",
     "companyName": "Google LLC",
     "id": 11,
@@ -189,7 +188,7 @@
     "size": 60,
     "reviews": 32000000,
     "ratingAvg": 4.3,
-    "downloads": 1000000000,
+    "downloads": 1000,
     "ratings": [
       { "name": "1 star", "count": 2500000 },
       { "name": "2 star", "count": 2000000 },
@@ -199,7 +198,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Netflix_icon.svg",
+    "image": "https://i.ibb.co.com/LhgCpCsb/netflix-mobile-application-logo-free-png.webp",
     "title": "Netflix",
     "companyName": "Netflix Inc.",
     "id": 12,
@@ -207,7 +206,7 @@
     "size": 75,
     "reviews": 92000000,
     "ratingAvg": 4.4,
-    "downloads": 1000000000,
+    "downloads": 1000,
     "ratings": [
       { "name": "1 star", "count": 6000000 },
       { "name": "2 star", "count": 5000000 },
@@ -217,7 +216,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Discord_icon.svg",
+    "image": "https://i.ibb.co.com/zksjcq1/Discord-Logo.png",
     "title": "Discord",
     "companyName": "Discord Inc.",
     "id": 13,
@@ -225,7 +224,7 @@
     "size": 80,
     "reviews": 48000000,
     "ratingAvg": 4.6,
-    "downloads": 500000000,
+    "downloads": 500,
     "ratings": [
       { "name": "1 star", "count": 3000000 },
       { "name": "2 star", "count": 2000000 },
@@ -235,7 +234,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+    "image": "https://i.ibb.co.com/FLPRR9Ss/images.jpg",
     "title": "Figma",
     "companyName": "Figma Inc.",
     "id": 14,
@@ -243,17 +242,18 @@
     "size": 55,
     "reviews": 2100000,
     "ratingAvg": 4.8,
-    "downloads": 20000000,
+    "downloads": 20,
     "ratings": [
       { "name": "1 star", "count": 30000 },
       { "name": "2 star", "count": 50000 },
       { "name": "3 star", "count": 100000 },
       { "name": "4 star", "count": 400000 },
-      { "name": "5 star", "count": 1600000 }
+      { "name": "5 star",
+        "count": 1600000 }
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Notion-logo.svg",
+    "image": "https://i.ibb.co.com/N6tRT8QF/Notion-logo-svg.png",
     "title": "Notion",
     "companyName": "Notion Labs Inc.",
     "id": 15,
@@ -261,7 +261,7 @@
     "size": 70,
     "reviews": 3800000,
     "ratingAvg": 4.7,
-    "downloads": 30000000,
+    "downloads": 30,
     "ratings": [
       { "name": "1 star", "count": 50000 },
       { "name": "2 star", "count": 70000 },
@@ -271,7 +271,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Slack_icon_2019.svg",
+    "image": "https://i.ibb.co.com/YBnLyjrh/6911160.png",
     "title": "Slack",
     "companyName": "Salesforce Inc.",
     "id": 16,
@@ -279,7 +279,7 @@
     "size": 85,
     "reviews": 2200000,
     "ratingAvg": 4.4,
-    "downloads": 100000000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 100000 },
       { "name": "2 star", "count": 150000 },
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/VS_Code_1.35_icon.svg",
+    "image": "https://i.ibb.co.com/5Zrr2tZ/image-1.png",
     "title": "Visual Studio Code",
     "companyName": "Microsoft Corporation",
     "id": 17,
@@ -297,7 +297,7 @@
     "size": 110,
     "reviews": 3200000,
     "ratingAvg": 4.9,
-    "downloads": 150000000,
+    "downloads": 150,
     "ratings": [
       { "name": "1 star", "count": 30000 },
       { "name": "2 star", "count": 40000 },
@@ -307,7 +307,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Google_Maps_icon_%282020%29.svg",
+    "image": "https://i.ibb.co.com/pvv8fwX7/Google-Maps-Logo-2020-svg.png",
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 18,
@@ -315,7 +315,7 @@
     "size": 120,
     "reviews": 115000000,
     "ratingAvg": 4.5,
-    "downloads": 10000000000,
+    "downloads": 10000,
     "ratings": [
       { "name": "1 star", "count": 7000000 },
       { "name": "2 star", "count": 5000000 },
@@ -325,7 +325,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Trello-logo-blue.svg",
+    "image": "https://i.ibb.co.com/8D0grwWv/trello-8x.png",
     "title": "Trello",
     "companyName": "Atlassian Corp.",
     "id": 19,
@@ -333,7 +333,7 @@
     "size": 50,
     "reviews": 1800000,
     "ratingAvg": 4.6,
-    "downloads": 10000000,
+    "downloads": 10,
     "ratings": [
       { "name": "1 star", "count": 40000 },
       { "name": "2 star", "count": 50000 },
@@ -343,7 +343,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg",
+    "image": "https://i.ibb.co.com/Mxp79N3t/images-2.jpg",
     "title": "Canva",
     "companyName": "Canva Pty Ltd.",
     "id": 20,
@@ -351,7 +351,7 @@
     "size": 100,
     "reviews": 78000000,
     "ratingAvg": 4.8,
-    "downloads": 1000000000,
+    "downloads": 1000,
     "ratings": [
       { "name": "1 star", "count": 4000000 },
       { "name": "2 star", "count": 3000000 },
@@ -360,6 +360,4 @@
       { "name": "5 star", "count": 53000000 }
     ]
   }
-
-
 ]

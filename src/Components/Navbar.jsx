@@ -20,7 +20,7 @@ const Navbar = () => {
       </ul>
     </div>
     
-    <Link to={'/'}><a className=" flex justify-center items-center gap-2 cursor-pointer text-[16px] font-bold text-[#9358EF]"><img className='w-[30px] h-[30px]' src={logo} alt="" />Hero.IO</a></Link>
+   <a href='/' className=" flex justify-center items-center gap-2 cursor-pointer text-[16px] font-bold text-[#9358EF]"><img className='w-[30px] h-[30px]' src={logo} alt="" />Hero.IO</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 space-x-5 text-[16px] font-medium">
