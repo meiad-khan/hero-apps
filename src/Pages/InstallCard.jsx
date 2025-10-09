@@ -12,7 +12,7 @@ const InstallCard = ({install, handleRemove}) => {
              <div className='flex  items-center gap-8 md:gap-5'>
               <span className='flex justify-center items-center rounded-[8px] p-2 bg-[#F1F5E8] text-[#00D390]'><ArrowDownToLine></ArrowDownToLine>{downloads}M</span>
             <span className='flex justify-center items-center rounded-[8px] p-2 bg-[#FFF0E1] text-[#FF8811]'><Star></Star>{ratingAvg}</span>
-             <span className='text-[16px] text-[#627382]'>{size}M</span>
+             <span className='text-[16px] text-[#627382]'>{size}MB</span>
              </div>
              </div>
           </div>
