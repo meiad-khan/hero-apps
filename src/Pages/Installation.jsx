@@ -1,12 +1,14 @@
 import React, { useEffect, useState } from 'react';
 import { getData, removeData } from '../Utility/LocalStorage';
 import InstallCard from './InstallCard';
+import { toast } from 'react-toastify';
 
 const Installation = () => {
   const [installedApps, setInstalledApps] = useState([]);
   const [sortOrder, setSortOrder] = useState('none')
 
   const handleRemove=id=>{
+    toast('App Uninstalled');
     removeData(id);
     setInstalledApps(prev=>prev.filter(app=>app.id!==id))
   }
