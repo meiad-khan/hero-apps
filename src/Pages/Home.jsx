@@ -39,8 +39,8 @@ const Home = () => {
       <img src={heroImg} alt="" />
     </div>
     <div className=' p-10 bg-linear-to-t from-sky-500 to-indigo-500'>
-      <h2 className='text-white text-[48px] font-bold text-center mb-4'>Trusted by Millions, Built for You</h2>
-      <div className='flex gap-48 items-center justify-center'>
+      <h2 className='text-white text-[48px] border-b border-b-gray-300 md:border-none pb-3 md:pb-0 font-bold text-center mb-4'>Trusted by Millions, Built for You</h2>
+      <div className='flex gap-8  md:gap-48 flex-col md:flex-row items-center justify-center'>
         <div className='flex flex-col items-center'>
           <p className='text-[16px] text-white'>Total Downloads</p>
           <p className='text-[64px] font-extrabold text-white'>29.6M</p>

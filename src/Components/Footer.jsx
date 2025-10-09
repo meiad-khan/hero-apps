@@ -1,18 +1,17 @@
 import React from 'react';
+import logo from '../assets/logo.png'
 
 const Footer = () => {
   return (
-    <footer className="footer flex justify-between items-center  sm:footer-horizontal bg-neutral text-neutral-content p-10">
-  <aside>
+    <footer className="footer flex flex-col sm:footer-horizontal bg-neutral text-neutral-content p-10">
+  <div className='flex w-full justify-between  border-b border-b-gray-300 pb-4'>
+    <aside className='space-y-3'>
    
-    <p>
-      ACME Industries Ltd.
-      <br />
-      Providing reliable tech since 1992
-    </p>
+    <div className='flex items-start'><a href='/' className=" flex justify-center items-center gap-2 cursor-pointer text-[16px] font-bold text-white"><img className='w-[30px] h-[30px]' src={logo} alt="" />Hero.IO</a></div>
+    <div><p className='text-[16px]'>A trusted platform where you find your desired apps</p></div>
   </aside>
   <nav>
-    <h6 className="footer-title">Social</h6>
+    <h6 className="footer-title">Social Links</h6>
     <div className="grid grid-flow-col gap-4">
       <a>
         <svg
@@ -49,6 +48,8 @@ const Footer = () => {
       </a>
     </div>
   </nav>
+  </div>
+  <p className='tex-[16px] w-full flex items-center justify-center text-white'>Copyright © 2025 - All right reserved</p>
 </footer>
   );
 };
